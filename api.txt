@@ -1,0 +1,5 @@
+http://localhost:3001/api/search?query=muku
+
+http://localhost:3001/api/data  
+ 
+http://localhost:3001/api/delete have to pass json data of email
